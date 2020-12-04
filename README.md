@@ -10,10 +10,10 @@
 
 ## 🎥 I'm a Developer and a Movie Lover!
 
-- 🌱 I’m currently improve my self studing new programming language  for my dev skills
-- 👯 I’m looking to improve my self and my skills every single day of my life
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Free Time: I love to watch new movie from every different type of genre
+- I’m currently improve my self studing new programming language  for my dev skills
+- I’m looking to improve my self and my skills every single day of my life
+- 2020 Goals: Contribute more to Open Source projects
+- Free Time: I love to watch new movie from every different type of genre
 
 <br />
 
