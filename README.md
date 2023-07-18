@@ -2,7 +2,7 @@
 
 <br />
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=SantinatoAndrea.com&logo=SantinatoAndrea.com&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fwww.santinatoandrea.com)][website]
+[//]: #[![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=SantinatoAndrea.com&logo=SantinatoAndrea.com&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fwww.santinatoandrea.com)][website]
 [![Twitter](https://img.shields.io/twitter/follow/AndrewSantinato?color=blue&logo=twitter&logoColor=blue&style=for-the-badge)][twitter]
 [![LinkeIn](https://img.shields.io/badge/See%20My%20Jobs%20Profile-Contact%20Me-orange?color=orange&logo=linkedin&logoColor=orange&style=for-the-badge)][linkedin]
 
