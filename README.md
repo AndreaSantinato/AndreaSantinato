@@ -2,39 +2,38 @@
 
 <br />
 
-[//]: #[![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=SantinatoAndrea.com&logo=SantinatoAndrea.com&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fwww.santinatoandrea.com)][website]
-[![Twitter](https://img.shields.io/twitter/follow/AndrewSantinato?color=blue&logo=twitter&logoColor=blue&style=for-the-badge)][twitter]
-[![LinkeIn](https://img.shields.io/badge/See%20My%20Jobs%20Profile-Contact%20Me-orange?color=orange&logo=linkedin&logoColor=orange&style=for-the-badge)][linkedin]
+[![Twitter](https://img.shields.io/twitter/follow/AndrewSantinato?color=blue&logo=twitter&logoColor=blue&style=for-the-badge)][Twitter]
+[![LinkedIn](https://img.shields.io/badge/See%20My%20Jobs%20Profile-Contact%20Me-orange?color=orange&logo=linkedin&logoColor=orange&style=for-the-badge)][Linkedin]
+
+## I'm a Software Developer That Enjoy What I Do
+
+In my entire life i always loved the IT word and how the software on my personal child laptop were made.
+I started developing some small project such us file organization, file viewer and simple calculator.
+
+The best way to improve the programming skills is to be enough curious to always search for better solutions and study how they are made, in this way you are always encouraged to learn you thing to utilize later in work projects.
+
+I'm actually a software developer in a small company that develop custom solutions for the clients based on their specific request.
+In my free time i like to start new projects to improve my personal knowledge and space from the world of programming languages to the world of networking solutions such us container application, virtualization providers and self hosted solutions.
 
 <br />
 
-## 🎥 I'm a Developer and a Movie Lover!
+## 💻 Program Languages and Developer Tools
 
-- I’m currently improve my self studing new programming language  for my dev skills
-- I’m looking to improve my self and my skills every single day of my life
-- 2020 Goals: Contribute more to Open Source projects
-- Free Time: I love to watch new movie from every different type of genre
+For a Full-Stack Developer is very important to learn a lot of different types of programming languages and for that we need a lot of different software that allow us to accomplish tasks.
 
-<br />
+### Tools that i currently working with
 
-## I Will Do What Makes Me Happy! 😄
-
-I have always lived my life with my own motto: "I will do what makes me happy!". I think that live our life doing something that we don't like is not worthy. So when i decide to enter into the world of programming, i started to enjoy it a lot and is the reason why after 10 years i'm still here developing for me and for my working company.
-
-<br />
-
-### 💻 Program Languages and Developer Tools
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Arduino.png" />][eclipse]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][git]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/AndreaSantinato/AndreaSantinato/blob/main/Visual_Studio_Code_Logo.png" />][VisualStudioCode]
+[<img align="left" alt="VisualStudio2022" width="26px" src="https://github.com/AndreaSantinato/AndreaSantinato/blob/main/Visual_Studio_2022_Logo.png" />][VisualStudio2022]
+[<img align="left" alt="JetBrains" width="26px" src="https://github.com/AndreaSantinato/AndreaSantinato/blob/main/JetBrains_Logo.png" />][Jetbrains]
+[<img align="left" alt="Git" width="26px" src="https://github.com/AndreaSantinato/AndreaSantinato/blob/main/Git_Logo.png" />][Git]
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/AndreaSantinato/AndreaSantinato/blob/main/GitHub_Logo.png" />][GitHub]
+[<img align="left" alt="Terminal" width="26px" src="https://github.com/AndreaSantinato/AndreaSantinato/blob/main/Terminal_Logo.png" />][Terminal]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/AndreaSantinato/AndreaSantinato/blob/main/HTML5_Logo.png" />][Html5]
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/AndreaSantinato/AndreaSantinato/blob/main/CSS3_Logo.png" />][Css3]
+[<img align="left" alt="JavaScript" width="26px" src="https://github.com/AndreaSantinato/AndreaSantinato/blob/main/JavaScript_Logo.png" />][Javascript]
+[<img align="left" alt="SQL" width="26px" src="https://github.com/AndreaSantinato/AndreaSantinato/blob/main/SQL_Server_Logo.png" />][SqlServer]
+[<img align="left" alt="MySQL" width="26px" src="https://github.com/AndreaSantinato/AndreaSantinato/blob/main/MySql_Logo.png" />][MySql]
 
 <br />
 <br />
@@ -45,20 +44,24 @@ I have always lived my life with my own motto: "I will do what makes me happy!".
 
 <br />
 
-
 [website]: https://www.santinatoandrea.com
 [twitter]: https://twitter.com/AndrewSantinato
 [linkedin]: https://www.linkedin.com/in/andrea-santinato/
 [infojobs]: https://www.infojobs.it/candidate/cv/view/index.xhtml?dgv=14268523688061134358
 
-[visualstudio]: https://visualstudio.microsoft.com/it/
-[eclipse]: https://www.eclipse.org/downloads/
-[html5]: https://en.wikipedia.org/wiki/HTML5
-[css3]: https://en.wikipedia.org/wiki/CSS
-[javascript]: https://en.wikipedia.org/wiki/JavaScript
-[sql]: https://en.wikipedia.org/wiki/SQL
-[mysql]: https://www.mysql.com/it/
-[git]: https://en.wikipedia.org/wiki/Git
-[github]: https://github.com/
-[terminal]: https://en.wikipedia.org/wiki/Terminal
+[VisualStudioCode]: https://code.visualstudio.com/
+[VisualStudio2022]: https://visualstudio.microsoft.com/it/vs/
+[Jetbrains]: https://en.wikipedia.org/wiki/Terminal](https://www.jetbrains.com/ides/)https://www.jetbrains.com/ides/
+[Terminal]: https://en.wikipedia.org/wiki/Terminal
+[Git]: https://en.wikipedia.org/wiki/Git
+[GitHub]: https://github.com/
+
+[Html5]: https://en.wikipedia.org/wiki/HTML5
+[Css3]: https://en.wikipedia.org/wiki/CSS
+[Javascript]: https://en.wikipedia.org/wiki/JavaScript
+[SqlServer]: https://en.wikipedia.org/wiki/SQL
+[Mysql]: https://www.mysql.com/it/
+
+
+
 
